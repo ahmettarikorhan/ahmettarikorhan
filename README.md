@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mythredd
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me : twitter.com/mythredd
