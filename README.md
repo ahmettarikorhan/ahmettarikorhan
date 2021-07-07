@@ -1,6 +1,4 @@
-##Android
-##Web
-##Dev
+Android & Web Jr. Dev.
 
 
 - 👋 Hi, I’m @mythredd
