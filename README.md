@@ -1,6 +1,6 @@
 Android & Web Jr. Dev.
 
-  pls visit my [website](http://tarikahmet.cf/)
+  My [website](http://tarikahmet.cf/)
   
 - 👋 Hi, I’m @mythredd
 - 👀 I’m interested in coding
