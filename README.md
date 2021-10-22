@@ -2,7 +2,10 @@
 
 <p align="center">
 
-
+<a href="https://instagram.com/ahmet.tarik42">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="mythredd's Instagram Profile" height="30" width="30">
+  </a>
+  
   <a href="https://www.linkedin.com/in/ahmet-tar%C4%B1k-orhan-68938b212//">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="mythredd's LinkedIn Profile" height="30" width="30">
   </a>
