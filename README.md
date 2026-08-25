@@ -1,44 +1,156 @@
-<h2 align="center">You can reach me at :alien:</h2>
+# 👋 Hi, I'm Ahmet Tarık
+
+### 💻 Software Developer · Information Systems Engineering Student
+
+I'm an Information Systems Engineering student and software developer who enjoys building things, exploring new technologies, and turning ideas into real-world projects.
+
+I’m particularly interested in **software development, artificial intelligence, cybersecurity, web technologies, and automation**.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Studying **Information Systems Engineering**
+* 💻 Building projects with **Python, C++, JavaScript & Flutter**
+* 🌐 Interested in **Web & Mobile Development**
+* 🤖 Exploring **AI & LLM-based applications**
+* 🔐 Interested in **Cybersecurity & Infrastructure**
+* 🛠️ I enjoy experimenting with new technologies and turning ideas into projects
+* 🇹🇷 Based in Türkiye
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,dart" />
+</p>
+
+### Frameworks & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postgresql,vscode,figma" />
+</p>
+
+---
+
+## 🔥 What I'm Working On
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   💡 Building projects                      │
+│   🤖 Exploring AI & LLMs                    │
+│   🌐 Developing web applications             │
+│   📱 Experimenting with mobile development   │
+│   🔐 Learning cybersecurity                  │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+I like learning by building. Most of my projects start with a simple question:
+
+> **"What if I built this myself?"**
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 More projects are constantly being added.
+
+### 🌐 Personal Website
+
+My personal website and developer portfolio.
+
+**Tech:** HTML · CSS · JavaScript
+
+### 🤖 AI Projects
+
+Experiments and applications involving AI, LLMs and automation.
+
+**Tech:** Python · APIs · AI/LLMs
+
+### 📱 Mobile Applications
+
+Mobile applications and experiments built with Flutter.
+
+**Tech:** Flutter · Dart
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
 
-<a href="https://instagram.com/ahmet.tarik42">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ahmettarikorhan's Instagram Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ahmet-tar%C4%B1k-orhan-68938b212//">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="ahmettarikorhan's LinkedIn Profile" height="30" width="30">
-  </a>
+---
 
-  <a href="https://stackoverflow.com/users/16031207/mythredd">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="ahmettarikorhan's Stack Overflow Profile" height="30" width="30">
-  </a>
+## 🐍 Contribution Graph
 
-  
- 
-  <a href="https://www.youtube.com/channel/UCYwNbyJjjOLnuGW5_eH4dGg">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="ahmettarikorhan's YouTube Channel" height="30" width="30">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+---
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+### ⚡ A little more about me
 
-<h2 align="center">Github stats :bar_chart:</h2>
+```python
+class AhmetTarik:
 
+    def __init__(self):
+        self.role = "Software Developer"
+        self.education = "Information Systems Engineering"
+        self.languages = [
+            "Python",
+            "C++",
+            "Java",
+            "JavaScript",
+            "Dart"
+        ]
+        self.interests = [
+            "AI",
+            "Cybersecurity",
+            "Web Development",
+            "Mobile Development",
+            "Automation"
+        ]
 
-<h4 align="center">Top langs :tongue:</h4>
+    def currently_learning(self):
+        return ["AI", "LLMs", "Cloud", "Cybersecurity"]
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmettarikorhan&langs_count=10&theme=tokyonight&layout=compact" alt="mythredd :: Top Langs" /></p>
+    def motto(self):
+        return "Build. Break. Learn. Repeat."
+```
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmettarikorhan&show_icons=true&theme=synthwave" alt="mythredd :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-----
-Credit: [Ahmet Tarık Orhan](https://github.com/ahmettarikorhan)
-
-Last Edited on: 22/10/2021
+<p align="center">
+  <i>Thanks for stopping by! 🚀</i>
+</p>
