@@ -15,7 +15,7 @@ I like building things, experimenting with technology, and occasionally taking s
 
 ```text
 role        → software developer
-studying    → information systems engineering
+studying    → computer engineering
 focus       → web / mobile / systems
 location    → Ankara, Türkiye
 status      → compiling thoughts
