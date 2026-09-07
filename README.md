@@ -5,7 +5,7 @@ software developer / information systems engineering student
 web / mobile / systems
 ```
 
-I'm a software developer and Information Systems Engineering student at **Ankara Bilim University**.
+I'm a software developer and Computer Engineering student at **Ankara Bilim University**.
 
 I like building things, experimenting with technology, and occasionally taking systems apart just to understand why they work the way they do.
 
